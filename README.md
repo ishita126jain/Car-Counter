@@ -6,7 +6,7 @@
 
 ## 
 
-![Car Counter](https://drive.google.com/file/d/1s9XFb32b7FdT_10hGuMj47eKoL_uc2XX/view?usp=sharing)
+![Car Counter](https://drive.google.com/file/d/1s9XFb32b7FdT_10hGuMj47eKoL_uc2XX/view?usp=drive_link)
 
 
 ## Introduction
