@@ -48,7 +48,7 @@ python car_counter.py
 
 4. View the results:
 
-- The processed video with vehicle counting will be saved as output_video.mp4.
+- The processed video with vehicle counting will seen.
 
 - The vehicle count and class distribution will be displayed in the console.
 
