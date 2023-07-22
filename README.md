@@ -6,7 +6,7 @@
 
 ## 
 
-![Car Counter](https://drive.google.com/file/d/1s9XFb32b7FdT_10hGuMj47eKoL_uc2XX/view?usp=drive_link)
+![ss](https://github.com/ishita126jain/Car-Counter/assets/91709949/70b7a976-89f0-4353-9bad-52ad01523ace)
 
 
 ## Introduction
