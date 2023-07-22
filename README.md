@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 3. Run the Car Counter:
 ```bash
-python car_counter.py --video traffic_video.mp4
+python car_counter.py 
 ``` 
 
 4. View the results:
